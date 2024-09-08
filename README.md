@@ -1,6 +1,6 @@
-# borgbackup
+# borgbackup-automation
 
-Borgbackup is a deduplicating archiver with compression and encryption. It allows you to store encrypted backups of your data in a space-efficient way. The purpose of this document is to enable the reader to improve their borgbackup process on their macOS machine.
+Borgbackup is a deduplicating archiver with compression and encryption. It allows you to store encrypted backups of your data in a space-efficient way. The purpose of this document is to enable the reader to improve their borgbackup process on their macOS machine, using the custom script I have created.
 
 ## Installation
 
