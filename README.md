@@ -1,6 +1,6 @@
 # borg-automation
 
-Borgbackup is a deduplicating archiver with compression and encryption. It allows you to store encrypted backups of your data in a space-efficient way. The purpose of this document is to enable the reader to improve their borgbackup process on their macOS machine, using the custom script I have created. If you already have Brew installed, you can [skip ahead](#script) to the script.
+Borgbackup is a deduplicating archiver with compression and encryption. It allows you to store encrypted backups of your data in a space-efficient way. The purpose of this document is to enable the reader to improve their borgbackup process on their macOS machine, using the custom script I have created. If you already have Brew and BorgBackup installed, you can [skip ahead](#script) to the script.
 
 ## Installation
 
